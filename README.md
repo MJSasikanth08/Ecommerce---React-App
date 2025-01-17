@@ -28,7 +28,7 @@ A simple e-commerce shopping cart application built with React. This project dem
 
 ### Product and Cart List Page
 
-![image](https://github.com/user-attachments/assets/a3d1b702-f330-4d97-9811-75c4e38ff794)
+![image](https://github.com/user-attachments/assets/b6af9429-a8d6-4236-b59e-88d826aff052)
 
 
 ## Technologies Used
